@@ -1,0 +1,12 @@
+{
+  "schema_version": "aios.snes.cheat-derived.v1",
+  "status": "seed",
+  "preferred_mirror": "neohack2023/libretro-database-AIOS-",
+  "original_upstream": "libretro/libretro-database",
+  "source_revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+  "records": 16,
+  "clusters": 3,
+  "source_files": 2,
+  "seed_digest_sha256": "bfa1e1233ad696fb5e7bc28327aa57f6fe140629b2893bc629d940cde38b95da",
+  "scope_note": "Bounded first derived slice; not a full-corpus harvest."
+}

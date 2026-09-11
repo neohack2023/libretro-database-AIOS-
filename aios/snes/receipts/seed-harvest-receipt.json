@@ -1,0 +1,12 @@
+{
+  "receipt_type": "aios_snes_cheat_seed_harvest",
+  "source_revision": "ff28a5e5bca21f7ae2001602d2e0585cf66c9b5c",
+  "record_count": 16,
+  "cluster_count": 3,
+  "output_digest_sha256": "bfa1e1233ad696fb5e7bc28327aa57f6fe140629b2893bc629d940cde38b95da",
+  "limitations": [
+    "Seed slice only.",
+    "No ROM fingerprint supplied.",
+    "No static/runtime behavior validation."
+  ]
+}
